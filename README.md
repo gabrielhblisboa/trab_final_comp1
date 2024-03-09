@@ -6,3 +6,5 @@ Python.
 Aluno: Gabriel Henrique Braga Lisboa
 
 Professora: Fernanda Duarte Vilela Reis de Oliveira
+
+Engenharia Eletrônica e de Computação - UFRJ
